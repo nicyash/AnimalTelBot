@@ -1,0 +1,49 @@
+{
+    "315624784": {
+        "chat_id": 315604784,
+        "is_passing": false,
+        "is_passed": false,
+        "question_index": 0,
+        "answers": [],
+        "points": 0
+    },
+    "1369584392": {
+        "chat_id": 1369584392,
+        "is_passing": true,
+        "is_passed": false,
+        "question_index": 22,
+        "answers": [
+            1,
+            2,
+            2,
+            2,
+            1,
+            0,
+            3,
+            0,
+            2,
+            3,
+            2,
+            3,
+            2,
+            3,
+            1,
+            0,
+            3,
+            3,
+            3,
+            0,
+            2,
+            3
+        ],
+        "points": 0
+    },
+    "315604784": {
+        "chat_id": 315604784,
+        "is_passing": true,
+        "is_passed": false,
+        "question_index": 0,
+        "answers": [],
+        "points": 0
+    }
+}

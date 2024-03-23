@@ -1,0 +1,41 @@
+{
+    "315624785": {
+        "chat_id": 315604785,
+        "is_passing": false,
+        "is_passed": false,
+        "question_index": 0,
+        "answers": [],
+        "points": 0
+    },
+    "315604784": {
+        "chat_id": 315604784,
+        "is_passing": false,
+        "is_passed": true,
+        "question_index": 22,
+        "answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "points": "Сова"
+    }
+}
