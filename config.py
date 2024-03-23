@@ -1,5 +1,5 @@
-TOKEN = '5973363662:AAH-dC-JuuPB-qubiMprHVvhNcdwmcv1psY'
-VK_TOKEN = 'vk1.a.UwxzVzL2I_2_XZCNPYoWMmuR4S28cmND6fnpQwo05sqTy42WZSk8o_HxvdTvq5iu4YgMFxP-DJE0J-Hu6z5XWJQofRxAX0wsgkBDygVbRJC-dSxjNi_iI6CrAjDVQ1V6UYRLRdwT-sOGR0M-1kyTtasHCugbs4twe2n_YzZgxJizrp3sv9snYDk5ojAEjZcvn4KNYN1-yJWm_1I4xhVNnQ'
+TOKEN = 'TOKEN'
+VK_TOKEN = 'TOKEN'
 count = 0
 
 info_txt = ('\U0001F44B\n<b>Московский Зоопарк</b> \U0001F43E - Это  один из старейших зоопарков Европы с уникальной '
